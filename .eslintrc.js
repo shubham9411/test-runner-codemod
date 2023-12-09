@@ -22,5 +22,7 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
+        "semi": 0,
+        "no-extra-semi": 0
     }
 }
