@@ -1,0 +1,29 @@
+{
+  "name": "test-runner-codemod",
+  "version": "0.1.0",
+  "description": "codemod for nodejs test runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham9411/test-runner-codemod.git"
+  },
+  "keywords": [
+    "test-runner",
+    "nodejs"
+  ],
+  "author": "Shubham Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham9411/test-runner-codemod/issues"
+  },
+  "homepage": "https://github.com/shubham9411/test-runner-codemod#readme",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  },
+  "dependencies": {
+    "jscodeshift": "^0.15.1"
+  }
+}
